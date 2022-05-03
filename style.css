@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between;
+    color: white;
+    padding: 15px 15px 15px 15px;
+}
+h1 {
+   text-align: center;
+}
+h2 {
+    text-align: left;
+}
+.button_google {
+    color: black;
+    font-weight: 800;
+}
+#logo {
+    align-items: left;
+    width: 65px;
+    padding: 15px 15px 15px 15px;
+}
+#logogoogle{
+    width: 35px;
+}
+
+
